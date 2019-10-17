@@ -33,6 +33,16 @@ void deserialize(Document& doc) {
                     end_y = end_json.GetArray()[1].GetDouble();
 
                 auto id = id_json.GetString();
+
+
+                //here we have the coordinates from each line segment taken out
+                //maybe brute force solution would be to rescan the array and then see if
+                //another point has the same coordinate and then they can be merged or connected.
+
+                //{"id":"12","start":[-281.60713556472026,493.81064039347896],"end":[457.73211113210678,-769.6258441320449]}
+                //{"id":"74","start":[230.98961938032165,-952.6697168161554],"end":[457.8803623537498,-240.84939716467648]}
+
+                //here we see two line segments from reference.json that share an endpoint
             }
         }
     }
