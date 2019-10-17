@@ -1,0 +1,1 @@
+/usr/bin/c++   -DGTEST_HAS_POSIX_RE=0   CMakeFiles/unit_tests.dir/test/tests.cpp.o  -o unit_tests  libtake_home_test_library.a 

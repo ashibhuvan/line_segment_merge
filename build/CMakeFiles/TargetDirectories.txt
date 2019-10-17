@@ -1,0 +1,6 @@
+/mnt/c/Users/ashi/Downloads/take-home-test-master/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/ashi/Downloads/take-home-test-master/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/ashi/Downloads/take-home-test-master/build/CMakeFiles/take_home_test.dir
+/mnt/c/Users/ashi/Downloads/take-home-test-master/build/CMakeFiles/take_home_test_library.dir
+/mnt/c/Users/ashi/Downloads/take-home-test-master/build/CMakeFiles/test.dir
+/mnt/c/Users/ashi/Downloads/take-home-test-master/build/CMakeFiles/unit_tests.dir

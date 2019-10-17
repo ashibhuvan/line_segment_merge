@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtake_home_test_library.a  CMakeFiles/take_home_test_library.dir/source/deserialize.cpp.o
+/usr/bin/ranlib libtake_home_test_library.a
