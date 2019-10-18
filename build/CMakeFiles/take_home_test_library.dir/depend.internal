@@ -7,6 +7,7 @@ CMakeFiles/take_home_test_library.dir/source/deserialize.cpp.o
  ../include/rapidjson/encodedstream.h
  ../include/rapidjson/encodings.h
  ../include/rapidjson/error/error.h
+ ../include/rapidjson/filereadstream.h
  ../include/rapidjson/internal/biginteger.h
  ../include/rapidjson/internal/diyfp.h
  ../include/rapidjson/internal/ieee754.h

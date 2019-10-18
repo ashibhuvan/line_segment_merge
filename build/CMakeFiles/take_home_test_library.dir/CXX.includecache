@@ -44,6 +44,12 @@ rapidjson.h
 ../rapidjson.h
 ../include/rapidjson/rapidjson.h
 
+../include/rapidjson/filereadstream.h
+stream.h
+../include/rapidjson/stream.h
+cstdio
+-
+
 ../include/rapidjson/internal/biginteger.h
 ../rapidjson.h
 ../include/rapidjson/rapidjson.h
@@ -193,8 +199,18 @@ deserialize.h
 /mnt/c/Users/ashi/Downloads/take-home-test-master/source/deserialize.h
 string
 -
+fstream
+-
+rapidjson/filereadstream.h
+/mnt/c/Users/ashi/Downloads/take-home-test-master/source/rapidjson/filereadstream.h
 document.h
 /mnt/c/Users/ashi/Downloads/take-home-test-master/source/document.h
 rapidjson.h
 /mnt/c/Users/ashi/Downloads/take-home-test-master/source/rapidjson.h
+vector
+-
+iostream
+-
+sstream
+-
 

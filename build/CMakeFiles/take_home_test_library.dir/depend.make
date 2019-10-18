@@ -6,6 +6,7 @@ CMakeFiles/take_home_test_library.dir/source/deserialize.cpp.o: ../include/rapid
 CMakeFiles/take_home_test_library.dir/source/deserialize.cpp.o: ../include/rapidjson/encodedstream.h
 CMakeFiles/take_home_test_library.dir/source/deserialize.cpp.o: ../include/rapidjson/encodings.h
 CMakeFiles/take_home_test_library.dir/source/deserialize.cpp.o: ../include/rapidjson/error/error.h
+CMakeFiles/take_home_test_library.dir/source/deserialize.cpp.o: ../include/rapidjson/filereadstream.h
 CMakeFiles/take_home_test_library.dir/source/deserialize.cpp.o: ../include/rapidjson/internal/biginteger.h
 CMakeFiles/take_home_test_library.dir/source/deserialize.cpp.o: ../include/rapidjson/internal/diyfp.h
 CMakeFiles/take_home_test_library.dir/source/deserialize.cpp.o: ../include/rapidjson/internal/ieee754.h
