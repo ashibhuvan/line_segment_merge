@@ -11,5 +11,5 @@
 #include <string>
 
 void deserialize_from_string(std::string const& json_data);
-
+void deserialize_from_file(std::string data);
 #endif //TAKE_HOME_TEST_DESERIALIZE_H
