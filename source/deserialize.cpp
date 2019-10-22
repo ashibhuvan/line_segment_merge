@@ -1,5 +1,6 @@
 //
-// Created by Nikolay Shulga on 2019-06-18.
+// JSON Proccessing Created by Nikolay Shulga on 2019-06-18 
+// Algorithim creation by Asish Mehta on 2019-10-22 
 //
 
 
